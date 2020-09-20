@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135458681229",
+    "firebase_url": "https://poised-honor-289814.firebaseio.com",
+    "project_id": "poised-honor-289814",
+    "storage_bucket": "poised-honor-289814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135458681229:android:d5a761fc0d339641fb4dc4",
+        "android_client_info": {
+          "package_name": "com.google.drivedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135458681229-8nrq4vnqhf07g1s21vguhfq2gl18us62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.drivedemo",
+            "certificate_hash": "17c95da5e1e13dbc9d834c23658bb671b32091b2"
+          }
+        },
+        {
+          "client_id": "135458681229-96gcf0dropcubq1fjtrhh08nirlcjqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHOjvMTm7ZEscD6tJ_4PHXy52LUfVhAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135458681229-96gcf0dropcubq1fjtrhh08nirlcjqq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
